@@ -1,6 +1,7 @@
 # horiseon-refactor
 
 Live URL https://susan-weaver.github.io/horiseon-refactor/
+
 GitHub URL https://github.com/Susan-Weaver/horiseon-refactor
 
 This code was edited to complete the Week 1 UC Berkely Challenge.  This work is due by 11:59, March 15th, 2020.
