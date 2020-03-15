@@ -26,4 +26,4 @@ Acceptance Criteria --> GIVEN a webpage meets accessibility standards:
     WHEN I view the title element
     THEN I find a concise, descriptive title
     
-EOM (end of message)    
+End 
